@@ -1,10 +1,38 @@
 # 鱼谙 · Yu An
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7F56D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Behance](https://img.shields.io/badge/Behance-In%20Progress-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://your-behance-link.com)
-[![Email](https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imnothapi@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&pause=2200&color=5C5470&center=true&vCenter=true&width=980&lines=UI%2FUX+%C2%B7+Interaction+Design+%C2%B7+Design+Research+%C2%B7+New+Media+Practice;Digital+Audiovisual+Interaction+%C2%B7+Philosophy+%C2%B7+New+Media+Art;Focus+%C2%B7+Syntonize+%C2%B7+Kindle+%C2%B7+Observe+%C2%B7+Simultaneously+%C2%B7+Sacredly+%C2%B7+Stoically;Designing+between+function%2C+perception%2C+media%2C+and+expression." alt="Typing SVG" />
+</p>
 
-> `UI/UX · Interaction Design · Design Research · New Media Practice`
+<p align="center">
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7F56D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://your-behance-link.com"><img src="https://img.shields.io/badge/Behance-In%20Progress-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## FISHKNOWSSS
+
+> A name is a philosophy.
+
+| Letter | Word | |
+|:---:|---|---|
+| **F** | Focus | Direct attention with intention, not distraction |
+| **I** | Identity | Know who you are before you design for others |
+| **S** | Syntonize | Tune in — to context, to users, to the unsaid |
+| **H** | Heart | Let feeling inform thinking, not replace it |
+| **K** | Kindle | Ignite curiosity, creativity, and care |
+| **N** | Nirvana | Seek clarity beyond noise — design toward stillness |
+| **O** | Observe | See before you speak. Watch before you make |
+| **W** | Wish | Hold a vision of what could be |
+| **S** | Simultaneously | Hold contradictions. Live in-between |
+| **S** | Sacredly | Treat experience — of others and your own — as worth protecting |
+| **S** | Stoically | Persist. Create without attachment to outcome |
+
+***F**ocus **I**dentity. **S**yntonize **H**eart. **K**indle **N**irvana. **O**bserve **W**ish*
+
+*——— **S**imultaneously, **S**acredly, **S**toically.*
 
 ---
 
@@ -64,6 +92,7 @@ Currently preparing for **graduate study in Japan**, with long-term interests in
 ![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)
 ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-FF3366?style=flat-square&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **Code / Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
@@ -73,12 +102,10 @@ Currently preparing for **graduate study in Japan**, with long-term interests in
 ![Three.js](https://img.shields.io/badge/Three.js-222?style=flat-square&logo=threedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 **3D / Spatial**
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/C4D-1E90FF?style=flat-square&logoColor=white)
 
 **AIGC / Workflow**
