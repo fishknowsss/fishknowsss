@@ -66,7 +66,8 @@ Currently preparing for **graduate study in Japan**, with long-term interests in
 
 ### YouYu · Windows Mihomo Desktop Client
 
-A Windows x64 desktop client for Mihomo, with proxy control, node testing, TUN, network repair, automatic updates, and a desktop pet.  
+A Windows x64 desktop client for Mihomo, with proxy control, node testing, TUN, network repair, automatic updates, and a desktop pet.
+
 [Project Site](https://fishknowsss.github.io/YouYu/) · [GitHub Repository](https://github.com/fishknowsss/YouYu) · [Latest Release](https://github.com/fishknowsss/YouYu/releases/latest)
 
 | | |
