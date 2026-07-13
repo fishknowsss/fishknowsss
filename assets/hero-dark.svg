@@ -1,81 +1,103 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
-  <title id="title">Fishknowsss — Yu An</title>
-  <desc id="description">UI/UX, interaction, product systems, and new media practice.</desc>
+  <title id="title">Fishknowsss — 魚諳 / Yu An</title>
+  <desc id="description">Designing between function and perception through interface, systems, media, and delivery.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07090d"/>
-      <stop offset="0.58" stop-color="#0b0e13"/>
-      <stop offset="1" stop-color="#10141a"/>
+      <stop offset="0" stop-color="#14182A"/>
+      <stop offset="0.58" stop-color="#192038"/>
+      <stop offset="1" stop-color="#232A46"/>
     </linearGradient>
-    <radialGradient id="signalGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#52e5d5" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#52e5d5" stop-opacity="0"/>
+    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8EACF0" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8EACF0" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="coralGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#ff796c" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#ff796c" stop-opacity="0"/>
+    <radialGradient id="violetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#B09AE6" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#B09AE6" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="signalLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#52e5d5" stop-opacity="0"/>
-      <stop offset="0.4" stop-color="#52e5d5" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#ff796c" stop-opacity="0.7"/>
-    </linearGradient>
     <filter id="softBlur" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="34"/>
+      <feGaussianBlur stdDeviation="32"/>
     </filter>
     <style>
       .sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
-      .eyebrow { font-size: 17px; font-weight: 650; letter-spacing: 3.4px; }
-      .name { font-size: 66px; font-weight: 620; letter-spacing: -2.1px; }
-      .tagline { font-size: 32px; font-weight: 500; letter-spacing: -0.7px; }
+      .identity { font-size: 17px; font-weight: 650; letter-spacing: 3.1px; }
+      .display { font-size: 54px; font-weight: 500; letter-spacing: -1.4px; }
       .meta { font-size: 19px; font-weight: 540; letter-spacing: 0.55px; }
-      .label { font-size: 14px; font-weight: 650; letter-spacing: 1.55px; }
-      .node { font-size: 13.5px; font-weight: 650; letter-spacing: 1.25px; }
+      .label { font-size: 14px; font-weight: 650; letter-spacing: 1.45px; }
+      .field-title { font-size: 17px; font-weight: 680; letter-spacing: 1.05px; }
+      .field-meta { font-size: 13.5px; font-weight: 540; letter-spacing: 0.45px; }
+      .center-title { font-size: 15px; font-weight: 700; letter-spacing: 1.15px; }
+      .center-meta { font-size: 12px; font-weight: 560; letter-spacing: 0.4px; }
     </style>
   </defs>
 
-  <rect width="1200" height="460" rx="30" fill="url(#background)"/>
-  <circle cx="1030" cy="92" r="190" fill="url(#signalGlow)" filter="url(#softBlur)"/>
-  <circle cx="1135" cy="392" r="150" fill="url(#coralGlow)" filter="url(#softBlur)"/>
+  <rect width="1200" height="460" rx="28" fill="url(#background)"/>
+  <circle cx="1015" cy="92" r="205" fill="url(#blueGlow)" filter="url(#softBlur)"/>
+  <circle cx="1132" cy="386" r="162" fill="url(#violetGlow)" filter="url(#softBlur)"/>
 
-  <g opacity="0.26" fill="none" stroke="#d8fff9">
-    <circle cx="988" cy="208" r="132" stroke-width="1"/>
-    <circle cx="988" cy="208" r="92" stroke-width="1" stroke-dasharray="3 10"/>
-    <path d="M838 208 C888 146 931 270 988 208 C1045 146 1088 270 1140 208" stroke="url(#signalLine)" stroke-width="2.4"/>
-    <path d="M858 242 C907 190 951 287 1007 235 C1060 186 1098 259 1138 232" stroke="#52e5d5" stroke-opacity="0.46"/>
+  <g class="sans" fill="#F4F6FF">
+    <text x="78" y="70" class="identity" fill="#AAB9EE">FISHKNOWSSS / 魚諳 · YU AN</text>
+    <text x="78" y="163" class="serif display">Designing between</text>
+    <text x="78" y="225" class="serif display">function &amp; perception.</text>
+    <text x="80" y="286" class="meta" fill="#AAB4D2">UI/UX · Interaction · Product Engineering · New Media</text>
   </g>
 
-  <g class="sans" fill="#e9eeef">
-    <text x="78" y="72" class="eyebrow" fill="#8ff4e8">FISHKNOWSSS / DIGITAL MEDIA · PRODUCT SYSTEMS</text>
-    <text x="76" y="170" class="name" fill="#ffffff">鱼谙 · Yu An</text>
-    <text x="78" y="226" class="serif tagline">Designing between function &amp; perception.</text>
-    <text x="80" y="288" class="meta" fill="#aeb9bb">UI/UX · Interaction · Product Engineering · New Media</text>
+  <g class="sans" text-anchor="middle">
+    <ellipse cx="982" cy="220" rx="162" ry="132" fill="none" stroke="#52617F" stroke-width="1.2"/>
+    <ellipse cx="982" cy="220" rx="126" ry="98" fill="none" stroke="#6E789A" stroke-width="1" stroke-dasharray="3 10"/>
+    <ellipse cx="982" cy="220" rx="150" ry="58" fill="none" stroke="#99C3E7" stroke-width="1.8" stroke-opacity="0.68" transform="rotate(56 982 220)"/>
+    <ellipse cx="982" cy="220" rx="150" ry="58" fill="none" stroke="#C5A0CD" stroke-width="1.7" stroke-opacity="0.58" transform="rotate(-56 982 220)"/>
+    <path d="M820 220 C858 131 919 120 982 220 C1045 320 1106 309 1144 220" fill="none" stroke="#8EACF0" stroke-width="2.35" stroke-opacity="0.88"/>
+    <path d="M820 220 C858 309 919 320 982 220 C1045 120 1106 131 1144 220" fill="none" stroke="#B09AE6" stroke-width="2.35" stroke-opacity="0.86"/>
+    <path d="M846 220 C893 177 935 174 982 220 C1029 266 1071 263 1118 220" fill="none" stroke="#8499DB" stroke-width="1.15" stroke-opacity="0.72"/>
+
+    <g fill="#8EACF0" fill-opacity="0.58">
+      <circle cx="894" cy="119" r="2.6"/>
+      <circle cx="1072" cy="126" r="2.2"/>
+      <circle cx="868" cy="286" r="2.3"/>
+      <circle cx="1091" cy="293" r="2.7"/>
+    </g>
+    <g fill="#B09AE6" fill-opacity="0.54">
+      <circle cx="922" cy="315" r="2.4"/>
+      <circle cx="1040" cy="112" r="2.5"/>
+      <circle cx="1120" cy="252" r="2.1"/>
+      <circle cx="845" cy="183" r="2.2"/>
+    </g>
+
+    <path d="M898 220 C926 181 1038 181 1066 220 C1038 259 926 259 898 220 Z" fill="#202842" stroke="#AAB9EE" stroke-width="1.5"/>
+    <text x="982" y="216" class="center-title" fill="#F4F6FF">DESIGN × BUILD</text>
+    <text x="982" y="237" class="center-meta" fill="#C8D1EC">research · systems · media</text>
+
+    <circle cx="982" cy="80" r="17" fill="#283351"/>
+    <circle cx="982" cy="80" r="6.5" fill="#8EACF0"/>
+    <text x="982" y="38" class="field-title" fill="#DCE4FF">INTERFACE STRUCTURE</text>
+    <text x="982" y="58" class="field-meta" fill="#AAB4D2">information · states · interaction</text>
+
+    <circle cx="832" cy="220" r="17" fill="#25344A"/>
+    <circle cx="832" cy="220" r="6.5" fill="#99C3E7"/>
+    <text x="842" y="170" class="field-title" fill="#D7EAFA">MEDIA EXPERIENCE</text>
+    <text x="842" y="190" class="field-meta" fill="#AAB4D2">image · sound · motion</text>
+
+    <circle cx="1132" cy="220" r="17" fill="#312D50"/>
+    <circle cx="1132" cy="220" r="6.5" fill="#B09AE6"/>
+    <text x="1090" y="170" class="field-title" fill="#E7DFFC">SYSTEM BEHAVIOR</text>
+    <text x="1090" y="190" class="field-meta" fill="#AAB4D2">data · reliability · feedback</text>
+
+    <circle cx="982" cy="360" r="17" fill="#3B2E45"/>
+    <circle cx="982" cy="360" r="6.5" fill="#C5A0CD"/>
+    <text x="982" y="393" class="field-title" fill="#F0DDEE">PRODUCT DELIVERY</text>
+    <text x="982" y="413" class="field-meta" fill="#AAB4D2">build · package · verify</text>
   </g>
 
-  <g class="sans node" text-anchor="middle">
-    <circle cx="988" cy="208" r="26" fill="#0b1517" stroke="#52e5d5" stroke-width="1.5"/>
-    <text x="988" y="212" fill="#d8fff9">MAKE</text>
-    <circle cx="988" cy="76" r="4" fill="#52e5d5"/>
-    <text x="988" y="58" fill="#b9c6c8">INTERFACE</text>
-    <circle cx="1120" cy="208" r="4" fill="#ff796c"/>
-    <text x="1120" y="191" fill="#b9c6c8">SYSTEM</text>
-    <circle cx="988" cy="340" r="4" fill="#52e5d5"/>
-    <text x="988" y="366" fill="#b9c6c8">DELIVERY</text>
-    <circle cx="856" cy="208" r="4" fill="#ff796c"/>
-    <text x="856" y="191" fill="#b9c6c8">MEDIA</text>
+  <line x1="78" y1="350" x2="730" y2="350" stroke="#52617F"/>
+  <g class="sans label" fill="#C8D1EC">
+    <text x="78" y="397">INTERACTION RESEARCH</text>
+    <text x="330" y="397">PRODUCT SYSTEMS</text>
+    <text x="520" y="397">AUDIOVISUAL MEDIA</text>
   </g>
-
-  <line x1="78" y1="354" x2="730" y2="354" stroke="#d7e2e3" stroke-opacity="0.16"/>
-  <g class="sans label" fill="#c8d1d2">
-    <text x="78" y="397">DESKTOP SYSTEMS</text>
-    <text x="278" y="397">LOCAL-FIRST</text>
-    <text x="441" y="397">AI + MEDIA</text>
-    <text x="592" y="397">DESIGN TO DELIVERY</text>
-  </g>
-  <g fill="#ff796c">
-    <circle cx="253" cy="393" r="2.5"/>
-    <circle cx="416" cy="393" r="2.5"/>
-    <circle cx="567" cy="393" r="2.5"/>
+  <g>
+    <circle cx="310" cy="393" r="2.8" fill="#99C3E7"/>
+    <circle cx="503" cy="393" r="2.8" fill="#B09AE6"/>
   </g>
 </svg>
