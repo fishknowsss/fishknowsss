@@ -26,11 +26,12 @@
     <style>
       .sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
-      .eyebrow { font-size: 14px; font-weight: 650; letter-spacing: 3.6px; }
-      .display { font-size: 57px; font-weight: 500; letter-spacing: -1.7px; }
-      .meta { font-size: 16px; font-weight: 520; letter-spacing: 0.7px; }
-      .label { font-size: 12px; font-weight: 650; letter-spacing: 1.7px; }
-      .node { font-size: 11px; font-weight: 650; letter-spacing: 1.4px; }
+      .eyebrow { font-size: 17px; font-weight: 650; letter-spacing: 3.4px; }
+      .name { font-size: 66px; font-weight: 620; letter-spacing: -2.1px; }
+      .tagline { font-size: 32px; font-weight: 500; letter-spacing: -0.7px; }
+      .meta { font-size: 19px; font-weight: 540; letter-spacing: 0.55px; }
+      .label { font-size: 14px; font-weight: 650; letter-spacing: 1.55px; }
+      .node { font-size: 13.5px; font-weight: 650; letter-spacing: 1.25px; }
     </style>
   </defs>
 
@@ -46,10 +47,10 @@
   </g>
 
   <g class="sans" fill="#202526">
-    <text x="78" y="73" class="eyebrow" fill="#087f74">鱼谙 · YU AN / FISHKNOWSSS</text>
-    <text x="78" y="169" class="serif display">Designing between</text>
-    <text x="78" y="235" class="serif display" fill="#111516">function &amp; perception.</text>
-    <text x="81" y="293" class="meta" fill="#566264">UI/UX · Interaction · Product Engineering · New Media</text>
+    <text x="78" y="72" class="eyebrow" fill="#087f74">FISHKNOWSSS / DIGITAL MEDIA · PRODUCT SYSTEMS</text>
+    <text x="76" y="170" class="name" fill="#111516">鱼谙 · Yu An</text>
+    <text x="78" y="226" class="serif tagline">Designing between function &amp; perception.</text>
+    <text x="80" y="288" class="meta" fill="#566264">UI/UX · Interaction · Product Engineering · New Media</text>
   </g>
 
   <g class="sans node" text-anchor="middle">
@@ -70,7 +71,7 @@
     <text x="78" y="397">DESKTOP SYSTEMS</text>
     <text x="278" y="397">LOCAL-FIRST</text>
     <text x="441" y="397">AI + MEDIA</text>
-    <text x="592" y="397">SHIP THE WHOLE FLOW</text>
+    <text x="592" y="397">DESIGN TO DELIVERY</text>
   </g>
   <g fill="#d45347">
     <circle cx="253" cy="393" r="2.5"/>

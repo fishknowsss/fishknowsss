@@ -26,10 +26,11 @@
     <style>
       .sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
-      .eyebrow { font-size: 18px; font-weight: 650; letter-spacing: 3.4px; }
-      .display { font-size: 68px; font-weight: 500; letter-spacing: -1.8px; }
-      .meta { font-size: 23px; font-weight: 520; letter-spacing: 0.4px; }
-      .label { font-size: 19px; font-weight: 650; letter-spacing: 1.7px; }
+      .eyebrow { font-size: 20px; font-weight: 650; letter-spacing: 3.1px; }
+      .name { font-size: 66px; font-weight: 620; letter-spacing: -1.8px; }
+      .tagline { font-size: 32px; font-weight: 500; letter-spacing: -0.6px; }
+      .meta { font-size: 23px; font-weight: 540; letter-spacing: 0.35px; }
+      .label { font-size: 20px; font-weight: 650; letter-spacing: 1.55px; }
     </style>
   </defs>
 
@@ -38,9 +39,10 @@
   <circle cx="640" cy="505" r="145" fill="url(#coralGlow)" filter="url(#softBlur)"/>
 
   <g class="sans" fill="#202526">
-    <text x="54" y="70" class="eyebrow" fill="#087f74">鱼谙 · YU AN / FISHKNOWSSS</text>
-    <text x="52" y="174" class="serif display">Designing between</text>
-    <text x="52" y="252" class="serif display" fill="#111516">function &amp; perception.</text>
+    <text x="54" y="64" class="eyebrow" fill="#087f74">FISHKNOWSSS / DIGITAL MEDIA</text>
+    <text x="52" y="154" class="name" fill="#111516">鱼谙 · Yu An</text>
+    <text x="54" y="214" class="serif tagline">Designing between function</text>
+    <text x="54" y="254" class="serif tagline" fill="#111516">&amp; perception.</text>
     <text x="54" y="317" class="meta" fill="#566264">UI/UX · Interaction · Product Engineering</text>
     <text x="54" y="351" class="meta" fill="#566264">New Media · Research · Delivery</text>
   </g>
