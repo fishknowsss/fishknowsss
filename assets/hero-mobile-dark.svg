@@ -10,13 +10,13 @@
     <style>
       .sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
-      .identity { font-size: 21px; font-weight: 680; letter-spacing: 2.7px; }
+      .identity { font-size: 22.5px; font-weight: 680; letter-spacing: 2.7px; }
       .display { font-size: 52px; font-weight: 500; letter-spacing: -1px; }
-      .meta { font-size: 22px; font-weight: 560; letter-spacing: 0.2px; }
-      .panel-title { font-size: 24px; font-weight: 720; letter-spacing: 1px; }
-      .panel-meta { font-size: 20px; font-weight: 560; letter-spacing: 0.1px; }
-      .module-title { font-size: 26px; font-weight: 720; letter-spacing: 0.25px; }
-      .module-meta { font-size: 20.5px; font-weight: 560; letter-spacing: 0.05px; }
+      .meta { font-size: 23px; font-weight: 560; letter-spacing: 0.2px; }
+      .panel-title { font-size: 25px; font-weight: 720; letter-spacing: 1px; }
+      .panel-meta { font-size: 21.5px; font-weight: 560; letter-spacing: 0.1px; }
+      .module-title { font-size: 27px; font-weight: 720; letter-spacing: 0.25px; }
+      .module-meta { font-size: 22px; font-weight: 560; letter-spacing: 0.05px; }
     </style>
   </defs>
 
