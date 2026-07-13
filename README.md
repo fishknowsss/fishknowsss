@@ -113,7 +113,7 @@ API keys are encrypted with Electron `safeStorage`; the renderer receives only a
 
 BatchWM is a local media utility for adding text, built-in image, or custom image watermarks to multiple videos. It supports nine-position placement, opacity and size controls, multiple blend modes, landscape/portrait/rotated previews, progress tracking, and remaining-time estimates.
 
-The important implementation choice is consistency: preview and final export share the same sizing model, including display dimensions for rotated media. `ffmpeg-static` ships with the application, so the user does not need to install a separate media runtime.
+Preview and final export share the same sizing model, including display dimensions for rotated media. `ffmpeg-static` ships with the application, so the user does not need to install a separate media runtime.
 
 ```text
 Local media → metadata and display dimensions → shared preview/export rules
