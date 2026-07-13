@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-7F56D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/fishknowsss/YouYu/releases/latest"><img src="https://img.shields.io/badge/YouYu-Latest%20Release-1769FF?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://github.com/fishknowsss/YouYu/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/YouYu?style=for-the-badge&label=YouYu&color=1769FF&logo=windows&logoColor=white" /></a>
   <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -44,6 +44,8 @@ My work focuses on how interfaces balance **usability**, **effectiveness**, and 
 
 My recent projects span **local-first desktop software**, **AI video workflows**, **studio operations**, and **media utilities**. I work from interface structure to production-ready delivery, keeping design and engineering in the same loop.
 
+Across these projects, I tend to favor **local-first data**, **clear domain boundaries**, **safe credential handling**, and release paths that people can actually use. Design is not treated as a surface layer; it stays connected to system behavior, failure states, and the full task flow.
+
 I'm especially drawn to **digital audiovisual interaction**, **new media art**, and the ways **philosophy, literature, and culture** can inform interface and experience design.
 
 Currently preparing for **graduate study in Japan**, with long-term interests in UI/UX, interaction, frontend, and cross-cultural art & design.
@@ -61,22 +63,67 @@ Currently preparing for **graduate study in Japan**, with long-term interests in
 | UI/UX Design | Interaction Design | Digital Audiovisual Interaction | Cross-cultural Design |
 | Information Architecture | Experience Design | New Media Art | Philosophy & Literature |
 | Human-Computer Interaction | Visual Prototyping | Creative Coding | Art & Cultural Thinking |
+| Product Interface | Local-first Experience | AI Video Workflow | Studio Systems |
 
 ---
 
 ## Selected Projects
 
-### YouYu · Windows Mihomo Desktop Client
-
-A Windows x64 desktop client for Mihomo, with proxy control, node testing, 16 connectivity checks, TUN, network repair, traffic statistics, automatic updates, and a 24-state desktop pet.
-
-[Project Site](https://fishknowsss.github.io/YouYu/) · [GitHub Repository](https://github.com/fishknowsss/YouYu) · [Latest Release](https://github.com/fishknowsss/YouYu/releases/latest)
-
-| | |
-|---|---|
-| **🎛️ 118 Studio Manager** — Local-first studio operations<br>`Studio Operations` `React` `TypeScript` `IndexedDB`<br>Projects, tasks, people, materials, schedules, short-drama production, relationship graphs, and optional Cloudflare backup.<br>[→ View Repo](https://github.com/fishknowsss/118-Studio-Manager) | **🫧 Flowish** — Personal planning dashboard<br>`UI/UX` `Information Design` `TypeScript` `Frontend Practice`<br>A focused dashboard for daily planning, rituals, calendar signals, and countdown events.<br>[→ View Site](https://fishknowsss.github.io/Flowish/) · [Repo](https://github.com/fishknowsss/Flowish) |
-| **🎬 YQhub** — Local Seedance generation workspace<br>`Electron` `TypeScript` `AI Video` `Local-first`<br>Material upload and annotation, task queues, generation history, automatic downloads, and locally encrypted credentials.<br>[→ View Repo](https://github.com/fishknowsss/YQhub) | **🎞️ BatchWM** — macOS batch video watermark tool<br>`Electron` `React` `ffmpeg` `macOS`<br>Text and image watermarks, nine-position placement, preview-to-export sizing, batch progress, and downloadable macOS releases.<br>[→ View Repo](https://github.com/fishknowsss/BatchWM) · [Release](https://github.com/fishknowsss/BatchWM/releases/latest) |
-| **🧩 ReSeq** — Shot and version reordering tool<br>`WPF` `C#` `.NET 8` `Windows`<br>A thumbnail matrix for drag-based shot insertion, version ordering, conflict checks, and two-stage safe renaming with rollback.<br>[→ View Repo](https://github.com/fishknowsss/ReSeq) | **🗂️ AccMGMT** — Runway resource scheduling board<br>`React` `TypeScript` `Cloudflare Pages` `D1`<br>Account availability, active use, future reservations, group concurrency limits, projects, and usage records.<br>[→ View Repo](https://github.com/fishknowsss/AccMGMT) |
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <strong>🌊 YouYu</strong> — Windows Mihomo Desktop Client<br><br>
+        <code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Mihomo</code> <code>NSIS</code><br><br>
+        A Windows x64 desktop client with beginner and advanced modes. It combines proxy and node control, health checks, TUN, system-network repair, traffic analytics, 16 service connectivity tests, three independent update channels, and a 24-state desktop pet.<br><br>
+        The public release includes standard, internal-channel, and no-pet installers with separate update metadata, integrity checks, differential downloads, and full-package fallback.<br><br>
+        <a href="https://fishknowsss.github.io/YouYu/">→ Project Site</a> · <a href="https://github.com/fishknowsss/YouYu">Repository</a> · <a href="https://github.com/fishknowsss/YouYu/releases/latest">Latest Release</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>🎛️ 118 Studio Manager</strong> — Local-first studio operations<br><br>
+        <code>React</code> <code>TypeScript</code> <code>IndexedDB</code> <code>Cloudflare</code><br><br>
+        A browser workspace for daily focus, projects, tasks, people, client requirements, shared accounts, schedules, short-drama production, and relationship graphs. Data stays in IndexedDB by default, with optional Cloudflare Worker backup and restore.<br><br>
+        <a href="https://github.com/fishknowsss/118-Studio-Manager">→ View Repository</a>
+      </td>
+      <td width="50%">
+        <strong>🫧 Flowish</strong> — Personal planning dashboard<br><br>
+        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>GitHub Pages</code><br><br>
+        A static planning space for daily focus, backlog management, recurring rituals, calendar signals, and countdown events. It includes one-click local launchers and a lightweight GitHub Pages delivery path.<br><br>
+        <a href="https://fishknowsss.github.io/Flowish/">→ Open Flowish</a> · <a href="https://github.com/fishknowsss/Flowish">Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>🎬 YQhub</strong> — Local Seedance generation workspace<br><br>
+        <code>Electron</code> <code>TypeScript</code> <code>Seedance 2.0</code> <code>safeStorage</code><br><br>
+        A local workstation for Xiaoyunque Skill API video generation: account management, multi-format material upload, prompt annotation, task queues, history, export naming, and automatic video downloads. API keys remain encrypted on the device.<br><br>
+        <a href="https://github.com/fishknowsss/YQhub">→ View Repository</a>
+      </td>
+      <td width="50%">
+        <strong>🎞️ BatchWM</strong> — macOS batch video watermark tool<br><br>
+        <code>Electron</code> <code>React</code> <code>ffmpeg</code> <code>macOS arm64</code><br><br>
+        A local video-processing utility with text and image watermarks, nine-position placement, blend modes, landscape and portrait previews, batch progress, time estimates, and shared sizing rules between preview and final output.<br><br>
+        <a href="https://github.com/fishknowsss/BatchWM">→ View Repository</a> · <a href="https://github.com/fishknowsss/BatchWM/releases/latest">Download</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>🧩 ReSeq</strong> — Shot and version reordering tool<br><br>
+        <code>WPF</code> <code>C#</code> <code>.NET 8</code> <code>Windows</code><br><br>
+        A native Windows tool for managing short-drama files by shot and version number. The thumbnail matrix supports drag-based insertion, full rename previews, conflict detection, two-stage temporary renaming, and best-effort rollback.<br><br>
+        <a href="https://github.com/fishknowsss/ReSeq">→ View Repository</a>
+      </td>
+      <td width="50%">
+        <strong>🗂️ AccMGMT</strong> — Runway resource scheduling board<br><br>
+        <code>React</code> <code>TypeScript</code> <code>Cloudflare Pages</code> <code>D1</code><br><br>
+        A studio resource board for account availability, active use, future reservations, renewal reminders, projects, members, and group concurrency limits. Pages Functions provide the API while D1 stores scheduling and account data.<br><br>
+        <a href="https://github.com/fishknowsss/AccMGMT">→ View Repository</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -115,6 +162,11 @@ A Windows x64 desktop client for Mihomo, with proxy control, node testing, 16 co
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **3D / Spatial**
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
@@ -133,9 +185,11 @@ A Windows x64 desktop client for Mihomo, with proxy control, node testing, 16 co
 ## Ongoing
 
 **Building**
-- YouYu Windows desktop experience and updates
-- YQhub local AI video generation workflow
-- Local-first studio systems and practical media utilities
+- YouYu's Windows desktop experience, diagnostics, network safety, and multi-channel update flow
+- YQhub's local AI video workflow, from material annotation to queueing, download, and export
+- 118 Studio Manager's local-first operations model, backup coverage, and small-team information design
+- Practical media utilities for video watermarking, shot/version organization, and repeatable delivery
+- A clearer research portfolio connecting interaction design, system behavior, and new media practice
 
 **Preparing**
 - Graduate study in Japan · UI/UX and interaction direction
@@ -148,6 +202,8 @@ A Windows x64 desktop client for Mihomo, with proxy control, node testing, 16 co
 
 Beyond design, I write on **philosophy**, **literature**, **media**, **contemporary life**, and **social structure**.<br>
 These reflections shape how I think about interfaces, interaction, and the cultural role of design.
+
+Current notes often return to **interface trust**, **local-first software**, **creative-tool friction**, and the ways systems shape attention, collaboration, and everyday decision-making.
 
 I also work across interface concepts, interaction prototypes, creative coding, audiovisual works, and AIGC-assisted media —<br>
 each a different way of investigating how experience is **structured**, **perceived**, and **communicated**.
