@@ -67,7 +67,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
         <img src="https://img.shields.io/badge/data-local--first-0F766E?style=flat-square" alt="Local-first">
         <img src="https://img.shields.io/badge/backup-Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Optional Cloudflare backup"><br><br>
         <code>React</code> <code>TypeScript</code> <code>IndexedDB</code> <code>PDF.js</code> <code>Vitest</code><br><br>
-        A local-first workspace for projects, tasks, people, schedules, shared accounts, short-drama production, and relationship graphs. IndexedDB remains the default data layer, with optional Worker / KV backup.<br><br>
+        A local-first workspace for projects, tasks, people, schedules, shared accounts, short-drama production, and relationship graphs. IndexedDB is the default; Cloudflare backup is optional.<br><br>
         <a href="https://github.com/fishknowsss/118-Studio-Manager">Repository →</a>
       </td>
       <td width="50%">
@@ -75,7 +75,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
         <img src="https://img.shields.io/badge/macOS-arm64-111827?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="macOS arm64">
         <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows x64"><br><br>
         <code>Electron</code> <code>TypeScript</code> <code>Seedance 2.0</code> <code>safeStorage</code><br><br>
-        A local workstation for generating videos through the Xiaoyunque Skill API, with material upload, prompt annotation, task queues, history, export naming, and automatic downloads. API keys stay encrypted on the device.<br><br>
+        A local Seedance workspace through the Xiaoyunque Skill API for materials, prompts, task queues, history, export naming, and automatic downloads. API keys remain encrypted on the device.<br><br>
         <a href="https://github.com/fishknowsss/YQhub">Repository →</a>
       </td>
     </tr>
@@ -85,7 +85,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
         <a href="https://github.com/fishknowsss/BatchWM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fishknowsss/BatchWM?style=flat-square&amp;color=0F766E" alt="MIT license"></a>
         <a href="https://github.com/fishknowsss/BatchWM/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/BatchWM?style=flat-square&amp;label=release&amp;color=D45347" alt="BatchWM latest release"></a><br><br>
         <code>Electron</code> <code>React</code> <code>ffmpeg</code> <code>macOS arm64</code><br><br>
-        A local batch video-watermark tool with text and image layers, nine-position placement, blend modes, landscape and portrait previews, progress, and shared sizing rules between preview and final output.<br><br>
+        A local batch watermark tool with text and image layers, nine-position placement, blend modes, preview / export consistency, progress, and bundled ffmpeg.<br><br>
         <a href="https://github.com/fishknowsss/BatchWM">Repository →</a> · <a href="https://github.com/fishknowsss/BatchWM/releases/latest">Download</a>
       </td>
       <td width="50%">
@@ -93,7 +93,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
         <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows x64">
         <img src="https://img.shields.io/badge/runtime-.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8"><br><br>
         <code>WPF</code> <code>C#</code> <code>.NET 8</code> <code>PowerShell</code><br><br>
-        A native Windows tool for managing short-drama files by shot and version number. Its thumbnail matrix supports drag insertion, full rename previews, conflict detection, two-stage temporary renaming, and best-effort rollback.<br><br>
+        A native Windows tool for shot and version reordering, with drag insertion, full rename previews, conflict detection, two-stage temporary renaming, and rollback.<br><br>
         <a href="https://github.com/fishknowsss/ReSeq">Repository →</a>
       </td>
     </tr>
@@ -103,7 +103,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
         <img src="https://img.shields.io/badge/runtime-Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
         <img src="https://img.shields.io/badge/database-D1-F59E0B?style=flat-square" alt="Cloudflare D1"><br><br>
         <code>React</code> <code>TypeScript</code> <code>Pages Functions</code> <code>D1</code><br><br>
-        A studio resource board for account availability, active use, future reservations, renewal reminders, projects, members, and group concurrency limits. Reservation overlap is handled as an explicit domain rule.<br><br>
+        A scheduling board for shared accounts, projects, members, reservations, renewals, and concurrency limits, with explicit overlap detection.<br><br>
         <a href="https://github.com/fishknowsss/AccMGMT">Repository →</a>
       </td>
       <td width="50%">
@@ -111,7 +111,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
         <a href="https://fishknowsss.github.io/Flowish/"><img src="https://img.shields.io/badge/status-live-0F766E?style=flat-square" alt="Live site"></a>
         <img src="https://img.shields.io/badge/deploy-GitHub_Pages-222?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Pages"><br><br>
         <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>GitHub Pages</code><br><br>
-        A lightweight planning space for daily focus, backlog management, recurring rituals, calendar signals, and countdown events, with one-click local launchers and a simple static delivery path.<br><br>
+        A lightweight planning space for daily focus, backlog, recurring rituals, calendar signals, and countdowns, with one-click local launchers and GitHub Pages delivery.<br><br>
         <a href="https://fishknowsss.github.io/Flowish/">Open Flowish →</a> · <a href="https://github.com/fishknowsss/Flowish">Repository</a>
       </td>
     </tr>
