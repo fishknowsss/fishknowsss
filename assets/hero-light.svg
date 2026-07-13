@@ -1,103 +1,94 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
   <title id="title">Fishknowsss — 魚諳 / Yu An</title>
-  <desc id="description">Designing between function and perception through interface, systems, media, and delivery.</desc>
+  <desc id="description">Designing between function and perception through a structured practice of interface, systems, media, and delivery.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FAFAFF"/>
-      <stop offset="0.58" stop-color="#F3F5FD"/>
-      <stop offset="1" stop-color="#F6F2FA"/>
+      <stop offset="0" stop-color="#FEFEFF"/>
+      <stop offset="0.62" stop-color="#F7F9FF"/>
+      <stop offset="1" stop-color="#FFF8F4"/>
     </linearGradient>
-    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#8499DB" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#8499DB" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="violetGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#A993D0" stop-opacity="0.17"/>
-      <stop offset="1" stop-color="#A993D0" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softBlur" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="32"/>
-    </filter>
     <style>
       .sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
-      .identity { font-size: 17px; font-weight: 650; letter-spacing: 3.1px; }
+      .identity { font-size: 16.5px; font-weight: 680; letter-spacing: 3px; }
       .display { font-size: 54px; font-weight: 500; letter-spacing: -1.4px; }
-      .meta { font-size: 19px; font-weight: 540; letter-spacing: 0.55px; }
-      .label { font-size: 15.5px; font-weight: 650; letter-spacing: 1.2px; }
-      .field-title { font-size: 21px; font-weight: 680; letter-spacing: 0.8px; }
-      .field-meta { font-size: 15.5px; font-weight: 540; letter-spacing: 0.25px; }
-      .center-title { font-size: 17px; font-weight: 700; letter-spacing: 0.95px; }
-      .center-meta { font-size: 13.5px; font-weight: 560; letter-spacing: 0.25px; }
+      .meta { font-size: 19px; font-weight: 550; letter-spacing: 0.45px; }
+      .label { font-size: 14.5px; font-weight: 680; letter-spacing: 1.15px; }
+      .module-title { font-size: 18px; font-weight: 720; letter-spacing: 0.55px; }
+      .module-meta { font-size: 14.5px; font-weight: 550; letter-spacing: 0.2px; }
+      .core-title { font-size: 16px; font-weight: 720; letter-spacing: 0.65px; }
+      .core-meta { font-size: 12.5px; font-weight: 560; letter-spacing: 0.25px; }
     </style>
   </defs>
 
-  <rect width="1200" height="460" rx="28" fill="url(#background)"/>
-  <circle cx="1015" cy="92" r="205" fill="url(#blueGlow)" filter="url(#softBlur)"/>
-  <circle cx="1132" cy="386" r="162" fill="url(#violetGlow)" filter="url(#softBlur)"/>
+  <rect width="1200" height="460" rx="20" fill="url(#background)"/>
 
-  <g class="sans" fill="#202842">
-    <text x="78" y="70" class="identity" fill="#5267B3">FISHKNOWSSS / 魚諳 · YU AN</text>
-    <text x="78" y="163" class="serif display">Designing between</text>
-    <text x="78" y="225" class="serif display">function &amp; perception.</text>
-    <text x="80" y="286" class="meta" fill="#626D8A">UI/UX · Interaction · Product Engineering · New Media</text>
+  <g class="sans">
+    <text x="78" y="70" class="identity" fill="#3F63CE">FISHKNOWSSS / 魚諳 · YU AN</text>
+    <text x="78" y="163" class="serif display" fill="#202332">Designing between</text>
+    <text x="78" y="225" class="serif display" fill="#202332">function &amp; perception.</text>
+    <text x="80" y="286" class="meta" fill="#5D6475">UI/UX · Interaction · Product Engineering · New Media</text>
   </g>
 
-  <g class="sans" text-anchor="middle">
-    <ellipse cx="982" cy="220" rx="162" ry="132" fill="none" stroke="#CBD5FA" stroke-width="1.2"/>
-    <ellipse cx="982" cy="220" rx="126" ry="98" fill="none" stroke="#AAB9EE" stroke-width="1" stroke-dasharray="3 10"/>
-    <ellipse cx="982" cy="220" rx="150" ry="58" fill="none" stroke="#4A6E9A" stroke-width="1.8" stroke-opacity="0.62" transform="rotate(56 982 220)"/>
-    <ellipse cx="982" cy="220" rx="150" ry="58" fill="none" stroke="#9F6489" stroke-width="1.7" stroke-opacity="0.54" transform="rotate(-56 982 220)"/>
-    <path d="M820 220 C858 131 919 120 982 220 C1045 320 1106 309 1144 220" fill="none" stroke="#5267B3" stroke-width="2.35" stroke-opacity="0.84"/>
-    <path d="M820 220 C858 309 919 320 982 220 C1045 120 1106 131 1144 220" fill="none" stroke="#765E9F" stroke-width="2.35" stroke-opacity="0.82"/>
-    <path d="M846 220 C893 177 935 174 982 220 C1029 266 1071 263 1118 220" fill="none" stroke="#8499DB" stroke-width="1.15" stroke-opacity="0.64"/>
-
-    <g fill="#5267B3" fill-opacity="0.5">
-      <circle cx="894" cy="119" r="2.6"/>
-      <circle cx="1072" cy="126" r="2.2"/>
-      <circle cx="868" cy="286" r="2.3"/>
-      <circle cx="1091" cy="293" r="2.7"/>
-    </g>
-    <g fill="#765E9F" fill-opacity="0.48">
-      <circle cx="922" cy="315" r="2.4"/>
-      <circle cx="1040" cy="112" r="2.5"/>
-      <circle cx="1120" cy="252" r="2.1"/>
-      <circle cx="845" cy="183" r="2.2"/>
-    </g>
-
-    <path d="M898 220 C926 181 1038 181 1066 220 C1038 259 926 259 898 220 Z" fill="#F1F4FF" stroke="#657CC8" stroke-width="1.5"/>
-    <text x="982" y="216" class="center-title" fill="#384575">DESIGN × BUILD</text>
-    <text x="982" y="237" class="center-meta" fill="#626D8A">research · systems · media</text>
-
-    <circle cx="982" cy="80" r="17" fill="#E4E9FF"/>
-    <circle cx="982" cy="80" r="6.5" fill="#5267B3"/>
-    <text x="982" y="38" class="field-title" fill="#384575">INTERFACE STRUCTURE</text>
-    <text x="982" y="58" class="field-meta" fill="#626D8A">information · states · interaction</text>
-
-    <circle cx="832" cy="220" r="17" fill="#E1EDF8"/>
-    <circle cx="832" cy="220" r="6.5" fill="#4A6E9A"/>
-    <text x="832" y="170" class="field-title" fill="#334B68">MEDIA EXPERIENCE</text>
-    <text x="832" y="190" class="field-meta" fill="#626D8A">image · sound · motion</text>
-
-    <circle cx="1132" cy="220" r="17" fill="#EEE7F8"/>
-    <circle cx="1132" cy="220" r="6.5" fill="#765E9F"/>
-    <text x="1080" y="170" class="field-title" fill="#503E6D">SYSTEM BEHAVIOR</text>
-    <text x="1080" y="190" class="field-meta" fill="#626D8A">data · states · reliability</text>
-
-    <circle cx="982" cy="360" r="17" fill="#F3E8EF"/>
-    <circle cx="982" cy="360" r="6.5" fill="#9F6489"/>
-    <text x="982" y="393" class="field-title" fill="#784A67">PRODUCT DELIVERY</text>
-    <text x="982" y="413" class="field-meta" fill="#626D8A">build · package · verify</text>
+  <g fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M870 186 V194 H924 V201" stroke="#557BE8"/>
+    <path d="M1070 186 V194 H1016 V201" stroke="#8A67D5"/>
+    <path d="M870 274 V266 H924 V259" stroke="#E47C72"/>
+    <path d="M1070 274 V266 H1016 V259" stroke="#E2A94F"/>
   </g>
 
-  <line x1="78" y1="350" x2="730" y2="350" stroke="#CBD5FA"/>
-  <g class="sans label" fill="#3F4966">
+  <g class="sans">
+    <g>
+      <rect x="790" y="54" width="160" height="132" rx="12" fill="#EEF3FF" stroke="#D6E0F7"/>
+      <rect x="806" y="70" width="42" height="4" rx="2" fill="#557BE8"/>
+      <text x="806" y="102" class="module-title" fill="#202332">INTERFACE</text>
+      <text x="806" y="125" class="module-title" fill="#202332">STRUCTURE</text>
+      <text x="806" y="153" class="module-meta" fill="#656B7C">information · states</text>
+      <text x="806" y="174" class="module-meta" fill="#656B7C">interaction</text>
+    </g>
+
+    <g>
+      <rect x="990" y="54" width="160" height="132" rx="12" fill="#F5F0FF" stroke="#E3D9F5"/>
+      <rect x="1006" y="70" width="42" height="4" rx="2" fill="#8A67D5"/>
+      <text x="1006" y="102" class="module-title" fill="#202332">SYSTEM</text>
+      <text x="1006" y="125" class="module-title" fill="#202332">BEHAVIOR</text>
+      <text x="1006" y="153" class="module-meta" fill="#656B7C">data · feedback</text>
+      <text x="1006" y="174" class="module-meta" fill="#656B7C">reliability</text>
+    </g>
+
+    <g>
+      <rect x="790" y="274" width="160" height="132" rx="12" fill="#FFF1EE" stroke="#F3D6D1"/>
+      <rect x="806" y="290" width="42" height="4" rx="2" fill="#E47C72"/>
+      <text x="806" y="322" class="module-title" fill="#202332">MEDIA</text>
+      <text x="806" y="345" class="module-title" fill="#202332">EXPERIENCE</text>
+      <text x="806" y="373" class="module-meta" fill="#656B7C">image · sound</text>
+      <text x="806" y="394" class="module-meta" fill="#656B7C">motion</text>
+    </g>
+
+    <g>
+      <rect x="990" y="274" width="160" height="132" rx="12" fill="#FFF6E3" stroke="#EEDDBF"/>
+      <rect x="1006" y="290" width="42" height="4" rx="2" fill="#E2A94F"/>
+      <text x="1006" y="322" class="module-title" fill="#202332">PRODUCT</text>
+      <text x="1006" y="345" class="module-title" fill="#202332">DELIVERY</text>
+      <text x="1006" y="373" class="module-meta" fill="#656B7C">build · package</text>
+      <text x="1006" y="394" class="module-meta" fill="#656B7C">verify</text>
+    </g>
+
+    <g text-anchor="middle">
+      <rect x="896" y="201" width="148" height="58" rx="10" fill="#FFFFFF" stroke="#AEB6C8" stroke-width="1.25"/>
+      <text x="970" y="226" class="core-title" fill="#202332">DESIGN × BUILD</text>
+      <text x="970" y="246" class="core-meta" fill="#656B7C">connected practice</text>
+    </g>
+  </g>
+
+  <line x1="78" y1="350" x2="730" y2="350" stroke="#D8DDEA"/>
+  <g class="sans label" fill="#464B5D">
     <text x="78" y="397">INTERACTION RESEARCH</text>
     <text x="330" y="397">PRODUCT SYSTEMS</text>
     <text x="520" y="397">AUDIOVISUAL MEDIA</text>
   </g>
-  <g>
-    <circle cx="320" cy="393" r="2.8" fill="#4A6E9A"/>
-    <circle cx="510" cy="393" r="2.8" fill="#765E9F"/>
+  <g fill="#8B90A0">
+    <circle cx="320" cy="393" r="2.7"/>
+    <circle cx="510" cy="393" r="2.7"/>
   </g>
 </svg>
