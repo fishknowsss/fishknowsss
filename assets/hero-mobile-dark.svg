@@ -15,8 +15,7 @@
       .meta { font-size: 22px; font-weight: 550; letter-spacing: 0.3px; }
       .module-title { font-size: 26px; font-weight: 720; letter-spacing: 0.25px; }
       .module-meta { font-size: 21.5px; font-weight: 550; letter-spacing: 0.1px; }
-      .core-title { font-size: 20.5px; font-weight: 720; letter-spacing: 0.35px; }
-      .core-meta { font-size: 16px; font-weight: 560; letter-spacing: 0.1px; }
+      .core-title { font-size: 22.5px; font-weight: 720; letter-spacing: 0.35px; }
     </style>
   </defs>
 
@@ -76,8 +75,7 @@
 
     <g text-anchor="middle">
       <rect x="270" y="508" width="180" height="60" rx="10" fill="#272A34" stroke="#656B7B" stroke-width="1.4"/>
-      <text x="360" y="533" class="core-title" fill="#F7F7FA">DESIGN × BUILD</text>
-      <text x="360" y="555" class="core-meta" fill="#B8BCC9">connected practice</text>
+      <text x="360" y="546" class="core-title" fill="#F7F7FA">DESIGN × BUILD</text>
     </g>
   </g>
 </svg>
