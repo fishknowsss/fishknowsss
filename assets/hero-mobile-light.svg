@@ -24,10 +24,10 @@
       .identity { font-size: 20px; font-weight: 650; letter-spacing: 3px; }
       .display { font-size: 56px; font-weight: 500; letter-spacing: -1.2px; }
       .meta { font-size: 22px; font-weight: 540; letter-spacing: 0.35px; }
-      .field-title { font-size: 22px; font-weight: 680; letter-spacing: 0.65px; }
-      .field-meta { font-size: 16.5px; font-weight: 540; letter-spacing: 0.3px; }
-      .center-title { font-size: 17px; font-weight: 700; letter-spacing: 0.8px; }
-      .center-meta { font-size: 13px; font-weight: 560; letter-spacing: 0.25px; }
+      .field-title { font-size: 26px; font-weight: 680; letter-spacing: 0.35px; }
+      .field-meta { font-size: 19.5px; font-weight: 540; letter-spacing: 0.15px; }
+      .center-title { font-size: 19.5px; font-weight: 700; letter-spacing: 0.55px; }
+      .center-meta { font-size: 15.5px; font-weight: 560; letter-spacing: 0.15px; }
     </style>
   </defs>
 
@@ -51,7 +51,7 @@
     <path d="M88 454 C166 346 270 354 360 454 C450 554 554 562 632 454" fill="none" stroke="#5267B3" stroke-width="2.6" stroke-opacity="0.82"/>
     <path d="M88 454 C166 562 270 554 360 454 C450 354 554 346 632 454" fill="none" stroke="#765E9F" stroke-width="2.6" stroke-opacity="0.8"/>
 
-    <path d="M278 454 C302 420 418 420 442 454 C418 488 302 488 278 454 Z" fill="#F1F4FF" stroke="#657CC8" stroke-width="1.6"/>
+    <path d="M266 454 C294 416 426 416 454 454 C426 492 294 492 266 454 Z" fill="#F1F4FF" stroke="#657CC8" stroke-width="1.6"/>
     <text x="360" y="450" class="center-title" fill="#384575">DESIGN × BUILD</text>
     <text x="360" y="472" class="center-meta" fill="#626D8A">connected practice</text>
 
