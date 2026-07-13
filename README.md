@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-7F56D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/fishknowsss/YouYu/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/YouYu?style=for-the-badge&label=YouYu&color=1769FF&logo=windows&logoColor=white" /></a>
-  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-7F56D9?style=for-the-badge" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Interaction-Design-1769FF?style=for-the-badge" alt="Interaction Design" />
+  <br>
+  <img src="https://img.shields.io/badge/Digital-Media-D946EF?style=for-the-badge" alt="Digital Media" />
+  <img src="https://img.shields.io/badge/Product-Engineering-0F766E?style=for-the-badge" alt="Product Engineering" />
+  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
