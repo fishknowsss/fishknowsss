@@ -64,6 +64,11 @@ Currently preparing for **graduate study in Japan**, with long-term interests in
 
 ## Selected Projects
 
+### YouYu · Windows Mihomo Desktop Client
+
+A Windows x64 desktop client for Mihomo, with proxy control, node testing, TUN, network repair, automatic updates, and a desktop pet.  
+[Project Site](https://fishknowsss.github.io/YouYu/) · [GitHub Repository](https://github.com/fishknowsss/YouYu) · [Latest Release](https://github.com/fishknowsss/YouYu/releases/latest)
+
 | | |
 |---|---|
 | **🌊 Fishknowsss** — Personal portfolio & blog website<br>`Portfolio System` `Frontend Practice` `Research Archive`<br>An evolving space for projects, writing, and design reflections.<br>[→ View Repo](https://github.com/fishknowsss/fishknowsss) | **🫧 Flowish** — Personal planning dashboard<br>`UI/UX` `Information Design` `TypeScript` `Frontend Practice`<br>A refined dashboard for daily focus, rituals, and countdown events.<br>[→ View Repo](https://github.com/fishknowsss/flowish) |
