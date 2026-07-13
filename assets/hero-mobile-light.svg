@@ -1,81 +1,75 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-labelledby="title description">
   <title id="title">Fishknowsss — 魚諳 / Yu An</title>
-  <desc id="description">Designing between function and perception through a structured practice of interface, systems, media, and delivery.</desc>
+  <desc id="description">Designing where people, systems, and expression meet through human experience, system clarity, art, and reliable delivery.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FEFEFF"/>
-      <stop offset="0.62" stop-color="#F7F9FF"/>
-      <stop offset="1" stop-color="#FFF8F4"/>
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.62" stop-color="#F8FAFF"/>
+      <stop offset="1" stop-color="#FFF9F6"/>
     </linearGradient>
     <style>
       .sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .serif { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
-      .identity { font-size: 20px; font-weight: 680; letter-spacing: 3px; }
-      .display { font-size: 56px; font-weight: 500; letter-spacing: -1.2px; }
-      .meta { font-size: 22px; font-weight: 550; letter-spacing: 0.3px; }
+      .identity { font-size: 21px; font-weight: 680; letter-spacing: 2.7px; }
+      .display { font-size: 52px; font-weight: 500; letter-spacing: -1px; }
+      .meta { font-size: 22px; font-weight: 560; letter-spacing: 0.2px; }
+      .panel-title { font-size: 24px; font-weight: 720; letter-spacing: 1px; }
+      .panel-meta { font-size: 20px; font-weight: 560; letter-spacing: 0.1px; }
       .module-title { font-size: 26px; font-weight: 720; letter-spacing: 0.25px; }
-      .module-meta { font-size: 21.5px; font-weight: 550; letter-spacing: 0.1px; }
-      .core-title { font-size: 22.5px; font-weight: 720; letter-spacing: 0.35px; }
+      .module-meta { font-size: 20.5px; font-weight: 560; letter-spacing: 0.05px; }
     </style>
   </defs>
 
   <rect width="720" height="760" rx="22" fill="url(#background)"/>
 
   <g class="sans">
-    <text x="54" y="62" class="identity" fill="#3F63CE">FISHKNOWSSS / 魚諳 · YU AN</text>
-    <text x="52" y="148" class="serif display" fill="#202332">Designing between</text>
-    <text x="52" y="211" class="serif display" fill="#202332">function &amp; perception.</text>
-    <text x="54" y="274" class="meta" fill="#5D6475">UI/UX · Interaction · Product Engineering</text>
-    <text x="54" y="306" class="meta" fill="#5D6475">New Media · Research · Delivery</text>
+    <text x="54" y="62" class="identity" fill="#303544">FISHKNOWSSS / 魚諳 · YU AN</text>
+    <text x="52" y="145" class="serif display" fill="#20232D">Designing where people,</text>
+    <text x="52" y="205" class="serif display" fill="#20232D">systems &amp; expression meet.</text>
+    <text x="54" y="265" class="meta" fill="#555D6E">Human-centered Design · Product Systems</text>
+    <text x="54" y="297" class="meta" fill="#555D6E">Art &amp; Media · Reliable Delivery</text>
   </g>
 
-  <g fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M184 484 V496 H324 V508" stroke="#557BE8"/>
-    <path d="M536 484 V496 H396 V508" stroke="#8A67D5"/>
-    <path d="M184 592 V580 H324 V568" stroke="#E47C72"/>
-    <path d="M536 592 V580 H396 V568" stroke="#E2A94F"/>
+  <g class="sans">
+    <text x="44" y="354" class="panel-title" fill="#303544">A CONNECTED PRACTICE</text>
+    <text x="44" y="383" class="panel-meta" fill="#555D6E">people · systems · culture · craft</text>
   </g>
 
   <g class="sans">
     <g>
-      <rect x="44" y="342" width="280" height="142" rx="12" fill="#EEF3FF" stroke="#D6E0F7"/>
-      <rect x="62" y="358" width="44" height="4" rx="2" fill="#557BE8"/>
-      <text x="62" y="391" class="module-title" fill="#202332">INTERFACE</text>
-      <text x="62" y="421" class="module-title" fill="#202332">STRUCTURE</text>
-      <text x="62" y="451" class="module-meta" fill="#656B7C">information · states</text>
-      <text x="62" y="475" class="module-meta" fill="#656B7C">interaction</text>
+      <rect x="44" y="408" width="308" height="144" rx="12" fill="#FFFFFF" stroke="#E7EAF1"/>
+      <rect x="62" y="424" width="36" height="4" rx="2" fill="#FF7F73"/>
+      <text x="62" y="454" class="module-title" fill="#242735">HUMAN</text>
+      <text x="62" y="484" class="module-title" fill="#242735">EXPERIENCE</text>
+      <text x="62" y="514" class="module-meta" fill="#596172">attention · trust</text>
+      <text x="62" y="538" class="module-meta" fill="#596172">collaboration</text>
     </g>
 
     <g>
-      <rect x="396" y="342" width="280" height="142" rx="12" fill="#F5F0FF" stroke="#E3D9F5"/>
-      <rect x="414" y="358" width="44" height="4" rx="2" fill="#8A67D5"/>
-      <text x="414" y="391" class="module-title" fill="#202332">SYSTEM</text>
-      <text x="414" y="421" class="module-title" fill="#202332">BEHAVIOR</text>
-      <text x="414" y="451" class="module-meta" fill="#656B7C">data · feedback</text>
-      <text x="414" y="475" class="module-meta" fill="#656B7C">reliability</text>
+      <rect x="368" y="408" width="308" height="144" rx="12" fill="#FFFFFF" stroke="#E7EAF1"/>
+      <rect x="386" y="424" width="36" height="4" rx="2" fill="#4D86FF"/>
+      <text x="386" y="454" class="module-title" fill="#242735">SYSTEM</text>
+      <text x="386" y="484" class="module-title" fill="#242735">CLARITY</text>
+      <text x="386" y="514" class="module-meta" fill="#596172">structure · feedback</text>
+      <text x="386" y="538" class="module-meta" fill="#596172">less friction</text>
     </g>
 
     <g>
-      <rect x="44" y="592" width="280" height="142" rx="12" fill="#FFF1EE" stroke="#F3D6D1"/>
-      <rect x="62" y="608" width="44" height="4" rx="2" fill="#E47C72"/>
-      <text x="62" y="641" class="module-title" fill="#202332">MEDIA</text>
-      <text x="62" y="671" class="module-title" fill="#202332">EXPERIENCE</text>
-      <text x="62" y="701" class="module-meta" fill="#656B7C">image · sound</text>
-      <text x="62" y="725" class="module-meta" fill="#656B7C">motion</text>
+      <rect x="44" y="568" width="308" height="144" rx="12" fill="#FFFFFF" stroke="#E7EAF1"/>
+      <rect x="62" y="584" width="36" height="4" rx="2" fill="#9B72FF"/>
+      <text x="62" y="614" class="module-title" fill="#242735">ART &amp;</text>
+      <text x="62" y="644" class="module-title" fill="#242735">MEDIA</text>
+      <text x="62" y="674" class="module-meta" fill="#596172">image · sound</text>
+      <text x="62" y="698" class="module-meta" fill="#596172">culture · perception</text>
     </g>
 
     <g>
-      <rect x="396" y="592" width="280" height="142" rx="12" fill="#FFF6E3" stroke="#EEDDBF"/>
-      <rect x="414" y="608" width="44" height="4" rx="2" fill="#E2A94F"/>
-      <text x="414" y="641" class="module-title" fill="#202332">PRODUCT</text>
-      <text x="414" y="671" class="module-title" fill="#202332">DELIVERY</text>
-      <text x="414" y="701" class="module-meta" fill="#656B7C">build · package</text>
-      <text x="414" y="725" class="module-meta" fill="#656B7C">verify</text>
-    </g>
-
-    <g text-anchor="middle">
-      <rect x="270" y="508" width="180" height="60" rx="10" fill="#FFFFFF" stroke="#AEB6C8" stroke-width="1.4"/>
-      <text x="360" y="546" class="core-title" fill="#202332">DESIGN × BUILD</text>
+      <rect x="368" y="568" width="308" height="144" rx="12" fill="#FFFFFF" stroke="#E7EAF1"/>
+      <rect x="386" y="584" width="36" height="4" rx="2" fill="#F3BE52"/>
+      <text x="386" y="614" class="module-title" fill="#242735">CRAFT &amp;</text>
+      <text x="386" y="644" class="module-title" fill="#242735">DELIVERY</text>
+      <text x="386" y="674" class="module-meta" fill="#596172">build · refine</text>
+      <text x="386" y="698" class="module-meta" fill="#596172">verify</text>
     </g>
   </g>
 </svg>

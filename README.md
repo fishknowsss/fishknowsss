@@ -3,27 +3,27 @@
   <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="魚諳 · Yu An — UI/UX, interaction, product engineering, and new media practice" src="./assets/hero-light.svg" width="100%">
+  <img alt="魚諳 · Yu An — human-centered design, product systems, art, and media practice" src="./assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=26&amp;height=56&amp;pause=2200&amp;color=9BB4FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Building+desktop+tools+and+systems;Exploring+audiovisual+interaction+and+media;Preparing+for+graduate+study+in+Japan">
-    <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=26&amp;height=56&amp;pause=2200&amp;color=4169D8&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Building+desktop+tools+and+systems;Exploring+audiovisual+interaction+and+media;Preparing+for+graduate+study+in+Japan">
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=23&amp;height=50&amp;pause=2200&amp;color=9BB4FF&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Building+desktop+tools+and+studio+systems;Exploring+audiovisual+interaction+and+new+media;Preparing+for+graduate+study+in+Japan">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=23&amp;height=50&amp;pause=2200&amp;color=4169D8&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Building+desktop+tools+and+studio+systems;Exploring+audiovisual+interaction+and+new+media;Preparing+for+graduate+study+in+Japan">
-    <img src="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=23&amp;height=50&amp;pause=2200&amp;color=4169D8&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Building+desktop+tools+and+studio+systems;Exploring+audiovisual+interaction+and+new+media;Preparing+for+graduate+study+in+Japan" alt="Current work and study direction" width="100%">
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=26&amp;height=56&amp;pause=2200&amp;color=E5E9F2&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Designing+human-centered+tools+and+systems;Exploring+audiovisual+interaction+and+art;Reducing+friction+through+clearer+workflows;Preparing+for+graduate+study+in+Japan">
+    <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=26&amp;height=56&amp;pause=2200&amp;color=303544&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Designing+human-centered+tools+and+systems;Exploring+audiovisual+interaction+and+art;Reducing+friction+through+clearer+workflows;Preparing+for+graduate+study+in+Japan">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=23&amp;height=50&amp;pause=2200&amp;color=E5E9F2&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Designing+human-centered+tools+and+product+systems;Exploring+audiovisual+interaction+and+media+expression;Turning+complex+workflows+into+clear%2C+reliable+experiences;Preparing+for+graduate+study+in+Japan">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=23&amp;height=50&amp;pause=2200&amp;color=303544&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Designing+human-centered+tools+and+product+systems;Exploring+audiovisual+interaction+and+media+expression;Turning+complex+workflows+into+clear%2C+reliable+experiences;Preparing+for+graduate+study+in+Japan">
+    <img src="https://readme-typing-svg.demolab.com/?font=Manrope&amp;weight=550&amp;size=23&amp;height=50&amp;pause=2200&amp;color=303544&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Designing+human-centered+tools+and+product+systems;Exploring+audiovisual+interaction+and+media+expression;Turning+complex+workflows+into+clear%2C+reliable+experiences;Preparing+for+graduate+study+in+Japan" alt="Current work and study direction" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-0E9384?style=for-the-badge" alt="UI/UX Design">
-  <img src="https://img.shields.io/badge/Interaction-Design-287FB5?style=for-the-badge" alt="Interaction Design">
+  <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-181717?style=for-the-badge&amp;labelColor=181717&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-5EEAD4?style=for-the-badge&amp;labelColor=5EEAD4" alt="UI/UX Design">
+  <img src="https://img.shields.io/badge/Interaction-Design-7CC8FF?style=for-the-badge&amp;labelColor=7CC8FF" alt="Interaction Design">
   <br>
-  <img src="https://img.shields.io/badge/Product-Engineering-E65F4C?style=for-the-badge" alt="Product Engineering">
-  <img src="https://img.shields.io/badge/Digital-Media-A05A8D?style=for-the-badge" alt="Digital Media">
-  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Product-Engineering-FFC857?style=for-the-badge&amp;labelColor=FFC857" alt="Product Engineering">
+  <img src="https://img.shields.io/badge/Digital-Media-F59DE1?style=for-the-badge&amp;labelColor=F59DE1" alt="Digital Media">
+  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-FF9990?style=for-the-badge&amp;labelColor=FF9990&amp;logo=gmail&amp;logoColor=333333" alt="Email"></a>
 </p>
 
 ---
@@ -32,7 +32,9 @@
 
 I'm a Digital Media student working across **UI/UX**, **interaction research**, **visual prototyping**, **product engineering**, and **new media practice**.
 
-My recent work spans **local-first desktop software**, **AI video workflows**, **studio operations**, and **media utilities**. I keep interface structure, system behavior, data ownership, failure states, and real delivery in the same design loop.
+My work asks how interfaces can remain **useful**, **effective**, and **aesthetically expressive** while respecting **attention**, **trust**, and **collaboration**.
+
+Across **local-first software**, **AI video workflows**, **studio operations**, and **media utilities**, I connect human context, system behavior, media expression, and reliable delivery while reducing friction across creative workflows.
 
 | Interface | Experience | Media | Context |
 |---|---|---|---|
@@ -41,7 +43,7 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
 | Human-Computer Interaction | Visual Prototyping | Creative Coding | Art & Cultural Thinking |
 | Product Interface | Local-first Experience | AI Video Workflow | Studio Systems |
 
-<p align="center"><strong>Research-oriented design · Product systems · Local-first software · New media · Japan</strong></p>
+<p align="center"><strong>Human-centered design · Clear systems · Expressive media · Reliable delivery · Japan</strong></p>
 
 ---
 
@@ -52,9 +54,9 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
     <tr>
       <td colspan="2">
         <strong>🌊 YouYu</strong> — Windows Mihomo Desktop Client<br><br>
-        <a href="https://github.com/fishknowsss/YouYu/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/YouYu?style=flat-square&amp;label=release&amp;color=2DA44E" alt="YouYu latest release"></a>
-        <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows x64">
-        <img src="https://img.shields.io/badge/release_channels-3-F97316?style=flat-square" alt="Three release channels"><br><br>
+        <a href="https://github.com/fishknowsss/YouYu/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/YouYu?style=flat-square&amp;label=release&amp;color=86E7B0&amp;labelColor=86E7B0" alt="YouYu latest release"></a>
+        <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;labelColor=0078D4&amp;logo=windows11&amp;logoColor=white" alt="Windows x64">
+        <img src="https://img.shields.io/badge/release_channels-3-FFD166?style=flat-square&amp;labelColor=FFD166" alt="Three release channels"><br><br>
         <code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Mihomo</code> <code>Cloudflare Worker</code> <code>NSIS</code><br><br>
         A Windows x64 Mihomo client with beginner and advanced modes. It combines proxy and node control, health checks, TUN, system-network repair, traffic analytics, 16 connectivity tests, three independent update channels, and a 24-state desktop pet.<br><br>
         The release flow includes separate installers and update metadata, integrity checks, differential downloads, and full-package fallback.<br><br>
@@ -64,16 +66,16 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
     <tr>
       <td width="50%">
         <strong>🎛️ 118 Studio Manager</strong><br><br>
-        <img src="https://img.shields.io/badge/data-local--first-0E9384?style=flat-square" alt="Local-first">
-        <img src="https://img.shields.io/badge/backup-Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Optional Cloudflare backup"><br><br>
+        <img src="https://img.shields.io/badge/data-local--first-72E0D1?style=flat-square&amp;labelColor=72E0D1" alt="Local-first">
+        <img src="https://img.shields.io/badge/backup-Cloudflare-F38020?style=flat-square&amp;labelColor=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Optional Cloudflare backup"><br><br>
         <code>React</code> <code>TypeScript</code> <code>IndexedDB</code> <code>PDF.js</code> <code>Vitest</code><br><br>
         A local-first workspace for projects, tasks, people, schedules, shared accounts, short-drama production, and relationship graphs. IndexedDB is the default; Cloudflare backup is optional.<br><br>
         <a href="https://github.com/fishknowsss/118-Studio-Manager">Repository →</a>
       </td>
       <td width="50%">
         <strong>🎬 YQhub</strong><br><br>
-        <img src="https://img.shields.io/badge/macOS-arm64-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="macOS arm64">
-        <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows x64"><br><br>
+        <img src="https://img.shields.io/badge/macOS-arm64-000000?style=flat-square&amp;labelColor=000000&amp;logo=apple&amp;logoColor=white" alt="macOS arm64">
+        <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;labelColor=0078D4&amp;logo=windows11&amp;logoColor=white" alt="Windows x64"><br><br>
         <code>Electron</code> <code>TypeScript</code> <code>Seedance 2.0</code> <code>safeStorage</code><br><br>
         A local Seedance workspace through the Xiaoyunque Skill API for materials, prompts, task queues, history, export naming, and automatic downloads. API keys remain encrypted on the device.<br><br>
         <a href="https://github.com/fishknowsss/YQhub">Repository →</a>
@@ -82,16 +84,16 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
     <tr>
       <td width="50%">
         <strong>🎞️ BatchWM</strong><br><br>
-        <a href="https://github.com/fishknowsss/BatchWM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fishknowsss/BatchWM?style=flat-square&amp;color=0969DA" alt="MIT license"></a>
-        <a href="https://github.com/fishknowsss/BatchWM/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/BatchWM?style=flat-square&amp;label=release&amp;color=2DA44E" alt="BatchWM latest release"></a><br><br>
+        <a href="https://github.com/fishknowsss/BatchWM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fishknowsss/BatchWM?style=flat-square&amp;color=8CCBFF&amp;labelColor=8CCBFF" alt="MIT license"></a>
+        <a href="https://github.com/fishknowsss/BatchWM/releases/latest"><img src="https://img.shields.io/github/v/release/fishknowsss/BatchWM?style=flat-square&amp;label=release&amp;color=86E7B0&amp;labelColor=86E7B0" alt="BatchWM latest release"></a><br><br>
         <code>Electron</code> <code>React</code> <code>ffmpeg</code> <code>macOS arm64</code><br><br>
         A local batch watermark tool with text and image layers, nine-position placement, blend modes, preview / export consistency, progress, and bundled ffmpeg.<br><br>
         <a href="https://github.com/fishknowsss/BatchWM">Repository →</a> · <a href="https://github.com/fishknowsss/BatchWM/releases/latest">Download</a>
       </td>
       <td width="50%">
         <strong>🧩 ReSeq</strong><br><br>
-        <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows x64">
-        <img src="https://img.shields.io/badge/runtime-.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8"><br><br>
+        <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&amp;labelColor=0078D4&amp;logo=windows11&amp;logoColor=white" alt="Windows x64">
+        <img src="https://img.shields.io/badge/runtime-.NET_8-512BD4?style=flat-square&amp;labelColor=512BD4&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8"><br><br>
         <code>WPF</code> <code>C#</code> <code>.NET 8</code> <code>PowerShell</code><br><br>
         A native Windows tool for shot and version reordering, with drag insertion, full rename previews, conflict detection, two-stage temporary renaming, and rollback.<br><br>
         <a href="https://github.com/fishknowsss/ReSeq">Repository →</a>
@@ -100,16 +102,16 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
     <tr>
       <td width="50%">
         <strong>🗂️ AccMGMT</strong><br><br>
-        <img src="https://img.shields.io/badge/runtime-Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
-        <img src="https://img.shields.io/badge/database-D1-F59E0B?style=flat-square" alt="Cloudflare D1"><br><br>
+        <img src="https://img.shields.io/badge/runtime-Cloudflare-F38020?style=flat-square&amp;labelColor=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
+        <img src="https://img.shields.io/badge/database-D1-F38020?style=flat-square&amp;labelColor=F38020" alt="Cloudflare D1"><br><br>
         <code>React</code> <code>TypeScript</code> <code>Pages Functions</code> <code>D1</code><br><br>
         A scheduling board for shared accounts, projects, members, reservations, renewals, and concurrency limits, with explicit overlap detection.<br><br>
         <a href="https://github.com/fishknowsss/AccMGMT">Repository →</a>
       </td>
       <td width="50%">
         <strong>🫧 Flowish</strong><br><br>
-        <a href="https://fishknowsss.github.io/Flowish/"><img src="https://img.shields.io/badge/status-live-2DA44E?style=flat-square" alt="Live site"></a>
-        <img src="https://img.shields.io/badge/deploy-GitHub_Pages-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Pages"><br><br>
+        <a href="https://fishknowsss.github.io/Flowish/"><img src="https://img.shields.io/badge/status-live-86E7B0?style=flat-square&amp;labelColor=86E7B0" alt="Live site"></a>
+        <img src="https://img.shields.io/badge/deploy-GitHub_Pages-181717?style=flat-square&amp;labelColor=181717&amp;logo=github&amp;logoColor=white" alt="GitHub Pages"><br><br>
         <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>GitHub Pages</code><br><br>
         A lightweight planning space for daily focus, backlog, recurring rituals, calendar signals, and countdowns, with one-click local launchers and GitHub Pages delivery.<br><br>
         <a href="https://fishknowsss.github.io/Flowish/">Open Flowish →</a> · <a href="https://github.com/fishknowsss/Flowish">Repository</a>
@@ -126,9 +128,9 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![ProtoPie](https://img.shields.io/badge/ProtoPie-5C2D91?style=flat-square&logoColor=white)
+![ProtoPie](https://img.shields.io/badge/ProtoPie-FF6661?style=flat-square&logoColor=333333)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
-![Axure](https://img.shields.io/badge/Axure%20RP-7A1FA2?style=flat-square&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure%20RP-181717?style=flat-square&logoColor=white)
 
 **Visual / Media**
 
@@ -163,10 +165,10 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
 
 **Data / Cloud / Delivery**
 
-![IndexedDB](https://img.shields.io/badge/IndexedDB-local--first-0E9384?style=flat-square&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-local--first-72E0D1?style=flat-square&labelColor=72E0D1&logoColor=333333)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
-![D1](https://img.shields.io/badge/D1-Cloudflare-F59E0B?style=flat-square&logo=cloudflare&logoColor=white)
+![D1](https://img.shields.io/badge/D1-Cloudflare-F38020?style=flat-square&labelColor=F38020&logo=cloudflare&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -180,8 +182,8 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
 **AIGC / Workflow**
 
 ![Midjourney](https://img.shields.io/badge/Midjourney-222222?style=flat-square&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-14B8A6?style=flat-square&logoColor=white)
-![Suno](https://img.shields.io/badge/Suno-7C3AED?style=flat-square&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-181717?style=flat-square&logoColor=white)
+![Suno](https://img.shields.io/badge/Suno-181717?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
 ![Seedance 2.0](https://img.shields.io/badge/Seedance%202.0-3251FF?style=flat-square&logoColor=white)
 
@@ -259,8 +261,8 @@ My recent work spans **local-first desktop software**, **AI video workflows**, *
 ---
 
 <p align="center">
-  <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://github.com/fishknowsss"><img src="https://img.shields.io/badge/GitHub-fishknowsss-181717?style=flat-square&amp;labelColor=181717&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+  <a href="mailto:imnothapi@gmail.com"><img src="https://img.shields.io/badge/Email-imnothapi%40gmail.com-FF9990?style=flat-square&amp;labelColor=FF9990&amp;logo=gmail&amp;logoColor=333333" alt="Email"></a>
 </p>
 
-<p align="center"><code>Designing between function, perception, media, and expression.</code></p>
+<p align="center"><code>Designing where people, systems, media, and expression meet.</code></p>
