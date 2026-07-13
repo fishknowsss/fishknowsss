@@ -24,11 +24,11 @@
       .identity { font-size: 17px; font-weight: 650; letter-spacing: 3.1px; }
       .display { font-size: 54px; font-weight: 500; letter-spacing: -1.4px; }
       .meta { font-size: 19px; font-weight: 540; letter-spacing: 0.55px; }
-      .label { font-size: 14px; font-weight: 650; letter-spacing: 1.45px; }
-      .field-title { font-size: 17px; font-weight: 680; letter-spacing: 1.05px; }
-      .field-meta { font-size: 13.5px; font-weight: 540; letter-spacing: 0.45px; }
-      .center-title { font-size: 15px; font-weight: 700; letter-spacing: 1.15px; }
-      .center-meta { font-size: 12px; font-weight: 560; letter-spacing: 0.4px; }
+      .label { font-size: 15.5px; font-weight: 650; letter-spacing: 1.2px; }
+      .field-title { font-size: 21px; font-weight: 680; letter-spacing: 0.8px; }
+      .field-meta { font-size: 15.5px; font-weight: 540; letter-spacing: 0.25px; }
+      .center-title { font-size: 17px; font-weight: 700; letter-spacing: 0.95px; }
+      .center-meta { font-size: 13.5px; font-weight: 560; letter-spacing: 0.25px; }
     </style>
   </defs>
 
@@ -76,13 +76,13 @@
 
     <circle cx="832" cy="220" r="17" fill="#E1EDF8"/>
     <circle cx="832" cy="220" r="6.5" fill="#4A6E9A"/>
-    <text x="842" y="170" class="field-title" fill="#334B68">MEDIA EXPERIENCE</text>
-    <text x="842" y="190" class="field-meta" fill="#626D8A">image · sound · motion</text>
+    <text x="832" y="170" class="field-title" fill="#334B68">MEDIA EXPERIENCE</text>
+    <text x="832" y="190" class="field-meta" fill="#626D8A">image · sound · motion</text>
 
     <circle cx="1132" cy="220" r="17" fill="#EEE7F8"/>
     <circle cx="1132" cy="220" r="6.5" fill="#765E9F"/>
-    <text x="1090" y="170" class="field-title" fill="#503E6D">SYSTEM BEHAVIOR</text>
-    <text x="1090" y="190" class="field-meta" fill="#626D8A">data · reliability · feedback</text>
+    <text x="1080" y="170" class="field-title" fill="#503E6D">SYSTEM BEHAVIOR</text>
+    <text x="1080" y="190" class="field-meta" fill="#626D8A">data · states · reliability</text>
 
     <circle cx="982" cy="360" r="17" fill="#F3E8EF"/>
     <circle cx="982" cy="360" r="6.5" fill="#9F6489"/>
@@ -97,7 +97,7 @@
     <text x="520" y="397">AUDIOVISUAL MEDIA</text>
   </g>
   <g>
-    <circle cx="310" cy="393" r="2.8" fill="#4A6E9A"/>
-    <circle cx="503" cy="393" r="2.8" fill="#765E9F"/>
+    <circle cx="320" cy="393" r="2.8" fill="#4A6E9A"/>
+    <circle cx="510" cy="393" r="2.8" fill="#765E9F"/>
   </g>
 </svg>
